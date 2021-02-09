@@ -1,0 +1,22 @@
+{
+  "name": "investment-planner-nodejsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harismubashir/Investment-Planner-NodeJSBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harismubashir/Investment-Planner-NodeJSBackend/issues"
+  },
+  "homepage": "https://github.com/harismubashir/Investment-Planner-NodeJSBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
